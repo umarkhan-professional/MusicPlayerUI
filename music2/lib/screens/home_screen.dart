@@ -36,32 +36,32 @@ class _HomeScreenState extends State<HomeScreen> {
     {
       'title': 'Lost in Echoes',
       'artist': 'Aurora Lights',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/lost_in_echoes.jpg',
     },
     {
       'title': 'Moonchild',
       'artist': 'Elysian Sky',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/Moonchild.jpg',
     },
     {
       'title': 'Midnight Groove',
       'artist': 'Nova Beats',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/Midnight_Groove.jpg',
     },
     {
       'title': 'Ocean Dreams',
       'artist': 'Blue Horizon',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/Ocean_Dreams.jpg',
     },
     {
       'title': 'Fading Memories',
       'artist': 'Velvet Tone',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/Fading_Memories.jpg',
     },
     {
       'title': 'Solar Waves',
       'artist': 'Cosmic Drift',
-      'image': 'assets/images/default.jpg',
+      'image': 'assets/images/Solar_Waves.jpg',
     },
 
     // 🎵 Telugu Songs (use specific images)
